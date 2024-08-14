@@ -1,8 +1,7 @@
 *Work in progress*
 
 # Utforskning av OpenAI sin API med jupyter notebook
-
-I denne notebook'en så utforsker jeg ulike funksjoner ved OpenAI sin API. 
+*I denne notebook'en så utforsker jeg ulike funksjoner ved OpenAI sin API.* 
 
 ## Oppsett 
 
